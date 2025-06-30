@@ -19,6 +19,7 @@ Every day, I solve one algorithmic problem and share the solution in JavaScript.
 | 6 | [2014. Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) | Hard | [Day06_LongestSubsequenceRepeatedK.js](./Day06_LongestSubsequenceRepeatedK.js) |
 | 7 | [2099. Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Easy | [Day07_MaxSubsequence.js](./Day07_MaxSubsequence.js) |
 | 8 | [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | [Day08_NumSubseq.js](./Day08_NumSubseq.js) |
+| 9 | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | Easy | [Day09_FindLHS.js](./Day09_FindLHS.js) |
 ---
 
 ## 🔗 Connect with Me
