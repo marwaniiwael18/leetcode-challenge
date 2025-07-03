@@ -22,6 +22,8 @@ Every day, I solve one algorithmic problem and share the solution in JavaScript.
 | 9 | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | Easy | [Day09_FindLHS.js](./Day09_FindLHS.js) |
 | 10 | [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | Easy | [Day10_TypedString.js](./Day10_TypedString.js) |
 | 11 | [3333. Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/) | Hard | [Day11_TypedString2.js](./Day11_TypedString2.js) |
+12 | 3333. Find the Original Typed String II | Hard | Day12_TypedString2.js
+
 ---
 
 ## 🔗 Connect with Me
