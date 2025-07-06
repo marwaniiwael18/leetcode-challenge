@@ -25,6 +25,7 @@ Every day, I solve one algorithmic problem and share the solution in JavaScript.
 | 12 | [3333. Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/) | Hard | [Day12_TypedString2.js](./Day12_TypedString2.js) |
 | 13 | [3307. Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | Hard | [Day13_KthCharacterGame.js](./Day13_KthCharacterGame.js) |
 | 14 | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Easy | [Day14_FindLuckyInteger.js](./Day14_FindLuckyInteger.js) |
+| 15 | [1865. Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | Medium | [Day14_FindSumPairs.js](./Day14_FindSumPairs.js) |
 
 ---
 
