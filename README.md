@@ -29,6 +29,7 @@ Every day, I solve one algorithmic problem and share the solution in JavaScript.
 | 16 | [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | Medium | [Day15_MaxEvents.js](./Day15_MaxEvents.js) |
 | 17 | [3439. Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | Medium | [Day17_RescheduleMeetings.js](./Day17_RescheduleMeetings.js) |---
 | 18 | [3440. Reschedule Meetings for Maximum Free Time II](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/) | Medium | [Day18_RescheduleMeetings2.js](./Day18_RescheduleMeetings2.js) |
+| 19 | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | Hard | [Day19_MeetingRoomsIII.js](./Day19_MeetingRoomsIII.js) |
 
 ## 🔗 Connect with Me
 
