@@ -32,6 +32,7 @@ Every day, I solve one algorithmic problem and share the solution in JavaScript.
 | 19 | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | Hard | [Day19_MeetingRoomsIII.js](./Day19_MeetingRoomsIII.js) |
 | 20 | [1900. The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/) | Hard | [Day20_EarliestAndLatestPlayers.js](./Day20_EarliestAndLatestPlayers.js) |
 | 21 | [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | Medium | [Day20_MatchPlayersTrainers.js](./Day20_MatchPlayersTrainers.js) |
+| 22 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | [Day20_ConvertBinaryLinkedList.js](./Day20_ConvertBinaryLinkedList.js) |
 
 ## 🔗 Connect with Me
 
