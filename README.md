@@ -35,6 +35,7 @@ Every day, I solve one algorithmic problem and share the solution in JavaScript.
 | 22 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | [Day20_ConvertBinaryLinkedList.js](./Day20_ConvertBinaryLinkedList.js) |
 | 23 | [3136. Valid Word](https://leetcode.com/problems/valid-word/) | Easy | [Day23_ValidWord.js](./Day23_ValidWord.js) |
 | 24 | [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | Medium | [Day24_MaxValidSubsequence.js](./Day24_MaxValidSubsequence.js) |
+| 25 | [3202. Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | Medium | [Day25_MaxValidSubsequence2.js](./Day25_MaxValidSubsequence2.js) |
 
 ## 🔗 Connect with Me
 
