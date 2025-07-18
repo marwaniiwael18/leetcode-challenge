@@ -36,7 +36,7 @@ Every day, I solve one algorithmic problem and share the solution in JavaScript.
 | 23 | [3136. Valid Word](https://leetcode.com/problems/valid-word/) | Easy | [Day23_ValidWord.js](./Day23_ValidWord.js) |
 | 24 | [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | Medium | [Day24_MaxValidSubsequence.js](./Day24_MaxValidSubsequence.js) |
 | 25 | [3202. Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | Medium | [Day25_MaxValidSubsequence2.js](./Day25_MaxValidSubsequence2.js) |
-
+| 26 | [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/) | Hard | [Day26_MinDifferenceAfterRemoval.js](./Day26_MinDifferenceAfterRemoval.js) |
 ## 🔗 Connect with Me
 
 - 💻 GitHub: [@marwaniiwael18](https://github.com/marwaniiwael18)
