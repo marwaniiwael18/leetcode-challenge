@@ -40,6 +40,7 @@ Every day, I solve one algorithmic problem and share the solution in JavaScript.
 | 27 | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | Medium | [Day27_RemoveSubfolders.js](./Day27_RemoveSubfolders.js) |
 | 28 | [1948. Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | Hard | [Day28_DeleteDuplicateFolders.js](./Day28_DeleteDuplicateFolders.js) |
 | 29 | [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | Easy | [Day29_DeleteFancyString.js](./Day29_DeleteFancyString.js) |
+| 30 | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | Medium | [Day30_MaximumErasureValue.js](./Day30_MaximumErasureValue.js) |
 ## 🔗 Connect with Me
 
 - 💻 GitHub: [@marwaniiwael18](https://github.com/marwaniiwael18)
